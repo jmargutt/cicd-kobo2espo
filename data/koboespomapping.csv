@@ -58,4 +58,4 @@
 56,housingNeigbourhood,The_housing_unit_is_not_isolat_001,enum
 57,housingBasement,The_housing_unit_is_not_locate,enum
 58,housingunittype,The_housing_unit_is_please_se,enum
-59,namestaffVerification,Staff_name_and_surname,text
+59,namestaffVerification,just_a_test,text
